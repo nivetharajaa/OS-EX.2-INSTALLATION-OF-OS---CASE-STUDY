@@ -35,14 +35,20 @@ Next, you need to allocate memory and the CPU to help run the virtual machine.It
 
 ## STEP-8:
 Now the virtual disk. This serves as the hard disk of the virtual Linux system. It is where the VM will store its files.Go with the defaults. If you have too much of less virtual hard disk space, the Linux distro might not install.
+
+
 ![image](https://github.com/nivetharajaa/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120543388/9d7c4357-1f2e-4eb3-9575-62e944532c21)
 
 ## STEP-9:
 You will be now shown a summary of all your selections, and then it is time to launch and initiate installing the Linux OS as a virtual machine.
+
+
 ![image](https://github.com/nivetharajaa/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120543388/6e526fe7-a251-4b52-a342-0f674acfd8c8)
 
 ## STEP-10:
 Once everything is in place, it’s time to boot that ISO and install Linux as a virtual operating system.
+
+
 ![image](https://github.com/nivetharajaa/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120543388/3d3a650c-d7b7-49be-8c20-a5cb18991139)
 
 # RESULT:
